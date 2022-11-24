@@ -6,8 +6,11 @@ Includes population/demographic data and housing data for each district.
 # Analyse to be done.
 ## Questions.
 Which are the 10 most populated States/Uts of India?
+
 Which are the top 5 least populated States/Uts?
+
 What is the Percentage of men and women in the country Population?
+
 What is the weight of different religions in the country?
 Which are the Top 10 States/Uts with highest literacy rate?
 Is there any relation between literacy rate and population rate?
